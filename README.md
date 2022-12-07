@@ -5,7 +5,7 @@
 <p align = "justify">As a third year Computer Engineering student, I am interested in being part of challenging projects that enable me to uplift my hard skills mainly in Back-end development and Software Development.
 On a more personal level, I would like to encounter a project and a team with whom I can learn from, share my general knowledge and points of view, and enhance my soft skills. Besides being a good team player, I am eager to learn and to develop myself among the best!</p>
 
-I'm currently an IT member at BEST [BEST](https://bestalmada.org)
+I'm currently an IT member @ [BEST](https://bestalmada.org)
 
 I'm learning at the moment **Javascript, Python, GLSL**
 
@@ -15,7 +15,7 @@ I'm learning at the moment **Javascript, Python, GLSL**
 
 ## 🚀💻 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![OCaml](https://img.shields.io/badge/-oCaml-black?style=flat-square&logo=oCaml)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
