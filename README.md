@@ -15,15 +15,17 @@ I'm learning at the moment **Javascript, Python, GLSL**
 
 ## 🚀💻 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![OCaml](https://img.shields.io/badge/-oCaml-black?style=flat-square&logo=oCaml)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![OCaml](https://img.shields.io/badge/-oCaml-black?style=flat-square&logo=oCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 ## ⚡ GitHub Stats
 
