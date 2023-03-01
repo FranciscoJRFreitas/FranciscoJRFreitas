@@ -26,6 +26,8 @@ I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![OCaml](https://img.shields.io/badge/-oCaml-black?style=flat-square&logo=oCaml)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<i class="fa fa-cube" aria-hidden="true"></i>![Three.js](https://img.shields.io/badge/-Three.js-181717?style=flat-square)
+
 
 
 ## ⚡ GitHub Stats
