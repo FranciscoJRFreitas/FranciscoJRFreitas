@@ -1,4 +1,4 @@
-:globe_with_meridians: [My Webpage/Portfolio](https://franciscofreitas.netlify.app)
+:globe_with_meridians: [My Webpage / Portfolio](https://franciscofreitas.netlify.app)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscojrfreitas" alt="franciscojrfreitas" /></p>
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1>
