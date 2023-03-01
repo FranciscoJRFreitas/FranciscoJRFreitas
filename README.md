@@ -1,4 +1,4 @@
-[![Webpage Badge](https://img.shields.io/badge/My%20Webpage%20/%20Portfolio-%F0%9F%8C%8D-blue?style=flat&logo=globe&link=https://www.linkedin.com/in/franfreitas2002/)](https://franciscofreitas.netlify.app)
+[![Webpage Badge](https://img.shields.io/badge/My%20Webpage%20/%20Portfolio-%F0%9F%8C%8D-blue?style=flat&logo=globe&link=https://www.linkedin.com/in/franfreitas2002/)](https://franciscofreitas.netlify.app){:target="_blank"}
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscojrfreitas" alt="franciscojrfreitas" /></p>
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1>
@@ -11,8 +11,8 @@ On a more personal level, I would like to encounter a project and a team with wh
 I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-franfreitas2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franfreitas2002/)](https://www.linkedin.com/in/franfreitas2002)
-[![Gmail Badge](https://img.shields.io/badge/-franfreitas2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franfreitas2002@gmail.com)](mailto:franfreitas2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-franfreitas2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franfreitas2002/)](https://www.linkedin.com/in/franfreitas2002){:target="_blank"}
+[![Gmail Badge](https://img.shields.io/badge/-franfreitas2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franfreitas2002@gmail.com)](mailto:franfreitas2002@gmail.com){:target="_blank"}
 
 ## 🚀💻 Technologies & Tools
 
