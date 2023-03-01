@@ -1,4 +1,4 @@
-:globe_with_meridians: [My Webpage / Portfolio](https://franciscofreitas.netlify.app)
+[![Webpage Badge](https://img.shields.io/badge/My%20Webpage%20/%20Portfolio-%F0%9F%8C%8D-blue?style=flat&logo=globe&link=https://www.linkedin.com/in/franfreitas2002/)](https://franciscofreitas.netlify.app)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscojrfreitas" alt="franciscojrfreitas" /></p>
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1>
