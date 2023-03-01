@@ -1,4 +1,4 @@
-<a target="_blank" href="https://franciscofreitas.netlify.app"><img src="[https://img.shields.io/badge/GitHub-Star-blue?logo=github](https://img.shields.io/badge/My%20Webpage%20/%20Portfolio-%F0%9F%8C%8D-blue?style=flat&logo=globe)" alt="Webpage Badge"></a>
+<a target="_blank" href="https://franciscofreitas.netlify.app"><img src="[https://img.shields.io/badge/GitHub-Star-blue?logo=github](https://img.shields.io/badge/My%20Webpage%20/%20Portfolio-%F0%9F%8C%8D-blue?style=flat&logo=globe)"></a>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscojrfreitas" alt="franciscojrfreitas" /></p>
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1>
