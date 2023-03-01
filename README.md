@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscojrfreitas" alt="franciscojrfreitas" /></p>
 
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Francisco</h1> :globe_with_meridians: [My Portfolio](https://franciscofreitas.netlify.app)
 <p align = "justify">As a third year Computer Engineering student, I am interested in being part of challenging projects that enable me to uplift my hard skills mainly in Back-end development and Software Development.
 On a more personal level, I would like to encounter a project and a team with whom I can learn from, share my general knowledge and points of view, and enhance my soft skills. Besides being a good team player, I am eager to learn and to develop myself among the best!</p>
 
