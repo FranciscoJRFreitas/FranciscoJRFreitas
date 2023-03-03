@@ -34,5 +34,5 @@ I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=franciscojrfreitas&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrfreitas&hide=TeX&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscojrfreitas&theme=github_dark) 
+![Overview](https://github-stats-alpha.vercel.app/api?username={franciscojrfreitas}&cc=000&tc=fff&ic=fff&bc=000)
 
