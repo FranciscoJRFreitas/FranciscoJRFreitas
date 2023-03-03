@@ -32,6 +32,7 @@ I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 
 ## ⚡ GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=franciscojrfreitas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscojrfreitas&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrfreitas&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=franciscojrfreitas&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscojrfreitas&theme=dark&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrfreitas&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117)
+
