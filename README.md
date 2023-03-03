@@ -36,3 +36,6 @@ I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscojrfreitas&theme=dark&hide_border=true&background=0D1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrfreitas&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117)
 
+## 🐍 Commits
+
+![snake gif](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.gif)
