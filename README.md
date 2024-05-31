@@ -6,7 +6,6 @@
 On a more personal level, I would like to encounter a project and a team with whom I can learn from, share my general knowledge and points of view, and enhance my soft skills. Besides being a good team player, I am eager to learn and to develop myself among the best!</p>
 
 📚 Studying @[FCT NOVA](https://www.fct.unl.pt)
-💻 IT member @[BEST](https://bestalmada.org)
 
 I'm learning at the moment **Javascript, Python, GLSL, Three.js**
 
