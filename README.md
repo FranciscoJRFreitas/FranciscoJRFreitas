@@ -7,9 +7,6 @@ On a more personal level, I would like to encounter a project and a team with wh
 
 📚 Studying @[FCT NOVA](https://www.fct.unl.pt)
 
-I'm learning at the moment **Javascript, Python, GLSL, Three.js**
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-franfreitas2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franfreitas2002/)](https://www.linkedin.com/in/franfreitas2002)
 [![Gmail Badge](https://img.shields.io/badge/-franfreitas2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franfreitas2002@gmail.com)](mailto:franfreitas2002@gmail.com)
 
